@@ -12,7 +12,7 @@
 | **University** | Aligarh Muslim University, Aligarh (202002), U.P., India |
 | **Department** | Statistics and Operations Research |
 | **Supervisors** | Dr. Irfan Ali & Dr. Ahmad Yusuf Adhami |
-| **Authors** | Aarushi Yadav (24ORMSA103), Umme Habiba (24ORMSA115), Ishika Garg (24ORMSA116) |
+| **Author** | Aarushi Yadav (24ORMSA103) |
 
 ---
 
